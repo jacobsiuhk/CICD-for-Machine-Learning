@@ -1,3 +1,4 @@
+---
 title: Drug Classification
 emoji: 🦀
 colorFrom: purple
@@ -7,3 +8,4 @@ sdk_version: 4.37.2
 app_file: drug_app.py
 pinned: false
 license: apache-2.0
+---
