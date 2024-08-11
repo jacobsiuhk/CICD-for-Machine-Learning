@@ -1,0 +1,3 @@
+Age,Sex,Blood Pressure,Cholesterol,Na_to_K,output,flag,username,timestamp
+30,M,HIGH,NORMAL,15.4,"{""label"":""Predicted Drug: DrugY"",""confidences"":null}",,,2024-08-11 17:51:11.345972
+30,M,HIGH,NORMAL,15.4,"{""label"":""Predicted Drug: DrugY"",""confidences"":null}",,,2024-08-11 17:51:13.320004
